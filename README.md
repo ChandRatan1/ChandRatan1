@@ -1,12 +1,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://github.com/vkumar89/vkumar89/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner%20(1).png"  />
+  <img height="300" src="temp"  alt="img" />
 </div>
 
 ###
 
-<h1 align="center">Hi 👋, I'm Vipin Kumar</h1>
+<h1 align="center">Hi 👋, I'm Ratan Chand </h1>
 
 ###
 
