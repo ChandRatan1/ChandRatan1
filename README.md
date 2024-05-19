@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="100%" src="https://media.licdn.com/dms/image/D5616AQFZDt_LvfCjpQ/profile-displaybackgroundimage-shrink_350_1400/0/1711993060935?e=1717632000&v=beta&t=sP3QXhDhn53X9CUyqpiRGXAvqoIvkBTfj9v_UIW2dEc"  alt="img" />
+  <img height="300" width="100%" src=""C:\Users\ASUS\Downloads\White Professional Digital Marketing Medium Banner (Landscape).png""  alt="img" />
 </div>
 
 ###
