@@ -93,16 +93,14 @@
   <a href="https://www.linkedin.com/in/ChandRatan1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="38" alt="linkedin logo"  />
   </a>
-  <a href="mailto:kumarvipin897946@gmail.com" target="_blank">
+  <a href="mailto:ratanchandbind4056@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="38" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/qr/YZFBUD7VMDQRN1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="38" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.youtube.com/@tradingbala" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="38" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/v.kumar_89" target="_blank">
+ 
+  <a href="https://www.instagram.com/sysxsta" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="38" alt="instagram logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/ChandRatan1" target="_blank">
