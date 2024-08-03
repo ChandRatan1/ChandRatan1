@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="100%" src="(https://github.com/ChandRatan1/BackgrounImg/blob/main/White%20Professional%20Digital%20Marketing%20Medium%20Banner%20(Landscape).png)" alt="Img" />
+  <img height="300" width="100%" src="https://github.com/ChandRatan1/BackgrounImg/blob/main/White%20Professional%20Digital%20Marketing%20Medium%20Banner%20(Landscape).png" alt="Img" />
 </div>
 
 ###
