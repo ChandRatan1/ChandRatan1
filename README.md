@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="100%" src="C:\Users\ASUS\OneDrive\Desktop\White Professional Digital Marketing Medium Banner (Landscape).png"" alt="Img" />
+  <img height="300" width="100%" src="E:\Text\White Professional Digital Marketing Medium Banner (Landscape).png" alt="Img" />
 </div>
 
 ###
